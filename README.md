@@ -1,2 +1,2 @@
 # cs-air
-Midwestern State University Computer Science Artificial Intelligence Research
+Midwestern State University **C**omputer **S**cience **A**rtificial **I**ntelligence **R**esearch
